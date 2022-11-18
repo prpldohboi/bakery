@@ -1,0 +1,2 @@
+docker run -p 8000:8000 local/thoughts:v1.0.0
+
